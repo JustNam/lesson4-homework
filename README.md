@@ -1,4 +1,4 @@
-# Lesson 3 — Talking to the World
+# Lesson 4 — Talking to the World
 
 ## What you're building
 
